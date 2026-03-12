@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">A Software Engineer, teacher, and bookworm who's eager to test new technologies!</h3>
+<h3 align="center">A Software Engineer, teacher, and bookworm</h3>
 
-- 💻 I’m currently working on **Apple Developer Academy**
+- 💻 I’m currently working on **Apple Developer Residency** as **Tech Lead**
 
-- 🔍 I’m currently learning about **visionOS**
+- 🔍 Next Goal: Become a **Solution Architect**
 
 - 💬 Ask me about **swift, SOLID, and software architecture**
 

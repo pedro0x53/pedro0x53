@@ -6,9 +6,9 @@ Hey, I'm Pedro 👋 Swift developer and some other languages. I build things.
 
 #### 📦 Checkout my Swift Packages
 
-- [**Onward**](https://github.com/pedro0x53/Onward) — A lightweight navigation framework for SwiftUI apps
-- [**Flow**](https://github.com/pedro0x53/Flow) — Composable state management for Swift
-- [**Volt**](https://github.com/pedro0x53/Volt) — A reactive event system for Swift
+- [**Onward**](https://github.com/pedro0x53/Onward) — A DSL to implement the Redux architecture with Swift.
+- [**Flow**](https://github.com/pedro0x53/Flow) — A small package that set the foundation of SwiftUI Horizontal, Vertical, and Context Navigation.
+- [**Volt**](https://github.com/pedro0x53/Volt) — A lightweight DI package for Swift, built on static subscript storage and macros.
 
 ---
 
